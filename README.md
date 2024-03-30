@@ -8,7 +8,6 @@ To see the live hand gesture whiteboard in action, check out our video demonstra
 
 <a href="https://www.loom.com/share/c1b5366ad7274aab934264621772c9c5?sid=abb483f4-15f0-43c5-816b-e1fd73380a27" target="_blank">Video Demonstration</a>
 
-Replace `VIDEO_ID` with the actual ID of your YouTube video.
 
 ## Getting Started
 
